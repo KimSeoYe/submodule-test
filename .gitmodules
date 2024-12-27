@@ -1,3 +1,6 @@
 [submodule "boltbrowser"]
 	path = boltbrowser
 	url = https://github.com/br0xen/boltbrowser.git
+[submodule "trivy-ci-test"]
+	path = trivy-ci-test
+	url = https://github.com/aquasecurity/trivy-ci-test.git
